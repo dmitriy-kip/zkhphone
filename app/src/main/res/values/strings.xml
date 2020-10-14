@@ -1,0 +1,56 @@
+<resources>
+    <!-- Тут прописываем свои переводы текстов
+    в виде <string name="key">value</string>
+    которые потом можно будет вызывать где угодно
+    через указанный key
+    -->
+    <string name="app_name">ЖКХФОН</string>
+    <string name="label_copyright">ООО "Прогматик", Россия, Новосибирск, 2020+</string>
+    <string name="label_version">версия</string>
+    <string name="label_initialization">Инициализация&#8230;</string>
+    <string name="label_initial_setup">Первоначальная настройка&#8230;</string>
+    <string name="label_wait">Пожалуйста, подождите&#8230;</string>
+    <string name="label_town">нас. пункт</string>
+    <string name="label_street">улица</string>
+    <string name="label_house">дом</string>
+    <string name="label_appart">кв.</string>
+    <string name="label_meters">счетчики</string>
+    <string name="label_pay">оплатить</string>
+    <string name="label_vote">голосования</string>
+    <string name="label_ads">объявления</string>
+    <string name="label_report_troubles">Сообщить о проблеме</string>
+    <string name="label_my_troubles" formatted="false">моих - %s</string>
+    <string name="label_total_troubles" formatted="false">всего - %s</string>
+    <string name="label_debt" formatted="false">Задолженность на%s</string>
+    <string name="label_overpay" formatted="false">Переплата на%s</string>
+    <string name="label_rouble_sign">&#8381;</string>
+
+    <string name="button_login">авторизация</string>
+    <string name="button_prev">Назад</string>
+    <string name="button_next">Далее</string>
+    <string name="button_register">регистрация</string>
+    <string name="button_ok">ОК</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_close">Закрыть</string>
+    <string name="button_settings">Настройки</string>
+
+    <string name="dialog_error">Ошибка</string>
+    <string name="dialog_warning">Внимание</string>
+    <string name="dialog_confirm">Подтверждение</string>
+    <string name="dialog_info">Информация</string>
+
+    <string name="message_request_authorization">отправка запроса на авторизацию&#8230;</string>
+    <string name="message_wait_push_authorization_answer">ожидание ответа от сервера&#8230;</string>
+    <string name="message_no_new_events">нет новых</string>
+
+    <string name="error_initialization_malfunction">Ошибка инициализации приложения. Обратитесь к разработчику.</string>
+    <string name="error_network">Невозможно подключиться с серверу из-за отсутствия Интернет-соединения. Пожалуйста проверьте настройки сети.</string>
+    <string name="error_server_answer" formatted="false">Сервер сообщает об ошибке: %s (код %s)</string>
+    <string name="error_wrong_server_answer">Некорректный ответ сервера. Обратитесь к разработчику.</string>
+    <string name="error_town_not_specified">не указан нас. пункт</string>
+    <string name="error_street_not_specified">не указана улица</string>
+    <string name="error_house_not_specified">не указан дом</string>
+    <string name="error_appart_not_specified">не указана квартира</string>
+    <string name="error_phone_not_specified">некорректный номер телефона</string>
+    <string name="error_something_wrong">кажется что-то пошло не так&#8230;</string>
+</resources>

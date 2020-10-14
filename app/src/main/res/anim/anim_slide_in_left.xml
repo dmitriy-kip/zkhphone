@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- тут описываем некий эффект анимации
+    по сути последовательность действий за указанный промежуток времени
+    самый простой пример - это сдивг слева-напрво по оси X за N миллисекунл
+    но есть ооочень крутые эффекты - их описание можно поискать в Инете
+    там их полно
+    -->
+    <translate
+        android:duration="600"
+        android:fromXDelta="100%"
+        android:toXDelta="0%" >
+    </translate>
+</set>

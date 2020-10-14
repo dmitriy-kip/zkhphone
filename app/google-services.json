@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "281639011729",
+    "firebase_url": "https://zkhphone-65723.firebaseio.com",
+    "project_id": "zkhphone-65723",
+    "storage_bucket": "zkhphone-65723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281639011729:android:37afc4f691c014f1",
+        "android_client_info": {
+          "package_name": "com.progmatik.zkhphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281639011729-fcc8gkue0ci12jsmi59jln8mhlt1m2un.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.progmatik.zkhphone",
+            "certificate_hash": "9fddfea1ce42094f9edaea41418d0ebf1729ddaf"
+          }
+        },
+        {
+          "client_id": "281639011729-kougl5r2irsoiumlsm9gtkesi52ckfhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.progmatik.zkhphone",
+            "certificate_hash": "a522b227a15b60a0c2950b392cd4ed4591c87e5a"
+          }
+        },
+        {
+          "client_id": "281639011729-davpv0e1h4d3jn5i26c6lcn53lkn4ulb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCesbfJiXLJ5nxK0obHUmSjVr43N1qAgK4"
+        },
+        {
+          "current_key": "AIzaSyB2tNUhHBelIfEpTx-RDTkGGr0roprYleE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281639011729-davpv0e1h4d3jn5i26c6lcn53lkn4ulb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
